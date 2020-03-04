@@ -12,3 +12,5 @@ In this guide, we will describe different account types, provide you documentati
 You can find more information at [IBM Cloud Website.](https://www.ibm.com/cloud)
 {% endhint %}
 
+
+
